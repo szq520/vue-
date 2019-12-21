@@ -1,0 +1,23 @@
+{
+  "name": "default",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "codemirror": "^5.50.0",
+    "core-js": "^2.6.5",
+    "cron-parser": "^2.13.0",
+    "debounce": "^1.2.0",
+    "iview": "^3.5.4",
+    "vue": "^2.6.10",
+    "vue-codemirror": "^4.0.6"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
